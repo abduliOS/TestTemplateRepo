@@ -1,4 +1,4 @@
-👾 React Native Template 
+👾 React Native Template source code repo
 
 
 Build Status Documentation Maintenance License: MIT
@@ -6,8 +6,6 @@ Build Status Documentation Maintenance License: MIT
 Clean and minimalist React Native template for a quick start with TypeScript.
 
 ⭐ Features Elegant usage directly within the React Native CLI Consistent with the default React Native template Minimal additional dependencies
-
-▶️ Usage npx react-native init SomeApp --template https://github.com/abduliOS/RCTemplate.git
 
 See the below table to find out which version of the template to use.
 
